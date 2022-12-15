@@ -4,7 +4,7 @@
 	"description": "Homegrown tool for tracking publications.",
 	"main": "index.js",
 	"dependencies": {
-		"cypress": "^4.9.0"
+		"cypress": "^4.12.1"
 	},
 	"devDependencies": {
 			"axios": "^0.19",
